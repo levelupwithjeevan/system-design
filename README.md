@@ -24,6 +24,19 @@ chapter-01-estimation-and-capacity-modeling/README.md
 
 Chapter numbers are stable once approved. If a later change requires inserting a new topic, prefer adding an appendix or renumbering only after explicit review.
 
+## Roadmap
+
+```mermaid
+flowchart LR
+    A["1 · Foundations<br/>Ch 01–18"] --> B["2 · Data Systems<br/>Ch 19–35"]
+    B --> C["3 · Distributed Systems<br/>Ch 36–38"]
+    C --> D["4 · Observability & Reliability<br/>Ch 39–42"]
+    D --> E["5 · Security<br/>Ch 43–48"]
+    E --> F["6 · Cloud & Platform<br/>Ch 49–57"]
+    F --> G["7 · AI Systems<br/>Ch 58–63"]
+    G --> H["8 · Design Walkthroughs<br/>Ch 64–69"]
+```
+
 ## Table Of Contents
 
 | # | Chapter |
